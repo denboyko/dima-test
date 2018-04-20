@@ -1,0 +1,67 @@
+
+[{
+        "chatId": "1",
+        "likedHouses": [
+            {
+                "id": "1",
+                "title": "1house",
+                "rating": "5",
+                "comment": "cool",
+                "secondComment": "huge",
+                "images": ["https://pix.idxre.com/pix/ONCREA/main/1/H4024615_1.jpg", "https://pix.idxre.com/pix/ONCREA/main/3/H4024615_3.jpg", "https://pix.idxre.com/pix/ONCREA/main/7/H4024615_7.jpg"],
+                "price": "1000",
+                "estimate": "10",
+                "neighborhood": "Holland Landing",
+                "bedrooms": "2",
+                "bathrooms": "1",
+                "parking": "1",
+                "description": "Wonderful Renovated Family Home W/Thousands Spent On Gorgeous Modern Kitchen, 2 Stunning Reno'd Bathrooms & Meticulous Decor Throughout! Spectacular Huge Lot W/ Mature Trees & Landscaping - All This Just Minutes Away From Cinemas, Go Train, Big Box Store Shopping & Upper Canada Mall! Spacious 2 Car Garage Has Extended Space For Storage Or Small Workshop Area & W/O To Back Yard! Great Finished Rec Rm W/Fireplace Too! **** EXTRAS **** Gas Furnace & Equip., Cac, Cvac & Equip, All Elf's, Window Coverings, One Gdo & Remote, I/G Sprinkler System, Hwt (R), B/I Dishwasher, S/S Fridge, S/S Stove. (id:6370)"
+    }, {
+                "id": "2",
+                "title": "2house",
+                "rating": "5",
+                "comment": "pure",
+                "secondComment": "small",
+                "images": ["https://pix.idxre.com/pix/ONCREA/main/1/N4063707_1.jpg", "https://pix.idxre.com/pix/ONCREA/main/3/N4063707_3.jpg"],
+                "price": "1000",
+                "estimate": "10",
+                "neighborhood": "Holland Landing",
+                "bedrooms": "2",
+                "bathrooms": "1",
+                "parking": "1",
+                "description": "Wonderful Renovated Family Home W/Thousands Spent On Gorgeous Modern Kitchen, 2 Stunning Reno'd Bathrooms & Meticulous Decor Throughout! Spectacular Huge Lot W/ Mature Trees & Landscaping - All This Just Minutes Away From Cinemas, Go Train, Big Box Store Shopping & Upper Canada Mall! Spacious 2 Car Garage Has Extended Space For Storage Or Small Workshop Area & W/O To Back Yard! Great Finished Rec Rm W/Fireplace Too! **** EXTRAS **** Gas Furnace & Equip., Cac, Cvac & Equip, All Elf's, Window Coverings, One Gdo & Remote, I/G Sprinkler System, Hwt (R), B/I Dishwasher, S/S Fridge, S/S Stove. (id:6370)"
+    }]
+    }, {
+        "chatId": "2",
+        "likedHouses": [{
+            "id": "3",
+            "title": "3house",
+            "rating": "5",
+            "comment": "cool",
+            "secondComment": "huge",
+            "images": ["https://pix.idxre.com/pix/ONCREA/main/1/H4024533_1.jpg"],
+            "price": "1000",
+            "estimate": "10",
+            "neighborhood": "Holland Landing",
+            "bedrooms": "2",
+            "bathrooms": "1",
+            "parking": "1",
+            "description": "Wonderful Renovated Family Home W/Thousands Spent On Gorgeous Modern Kitchen, 2 Stunning Reno'd Bathrooms & Meticulous Decor Throughout! Spectacular Huge Lot W/ Mature Trees & Landscaping - All This Just Minutes Away From Cinemas, Go Train, Big Box Store Shopping & Upper Canada Mall! Spacious 2 Car Garage Has Extended Space For Storage Or Small Workshop Area & W/O To Back Yard! Great Finished Rec Rm W/Fireplace Too! **** EXTRAS **** Gas Furnace & Equip., Cac, Cvac & Equip, All Elf's, Window Coverings, One Gdo & Remote, I/G Sprinkler System, Hwt (R), B/I Dishwasher, S/S Fridge, S/S Stove. (id:6370)"
+        }, {
+            "id": "4",
+            "title": "4house",
+            "rating": "5",
+            "comment": "pure",
+            "secondComment": "small",
+            "images": ["https://pix.idxre.com/pix/ONCREA/main/1/N4095401_1.jpg",
+            "https://pix.idxre.com/pix/ONCREA/main/3/N4095401_3.jpg"],
+            "price": "1000",
+            "estimate": "10",
+            "neighborhood": "Holland Landing",
+            "bedrooms": "2",
+            "bathrooms": "1",
+            "parking": "1",
+            "description": "Wonderful Renovated Family Home W/Thousands Spent On Gorgeous Modern Kitchen, 2 Stunning Reno'd Bathrooms & Meticulous Decor Throughout! Spectacular Huge Lot W/ Mature Trees & Landscaping - All This Just Minutes Away From Cinemas, Go Train, Big Box Store Shopping & Upper Canada Mall! Spacious 2 Car Garage Has Extended Space For Storage Or Small Workshop Area & W/O To Back Yard! Great Finished Rec Rm W/Fireplace Too! **** EXTRAS **** Gas Furnace & Equip., Cac, Cvac & Equip, All Elf's, Window Coverings, One Gdo & Remote, I/G Sprinkler System, Hwt (R), B/I Dishwasher, S/S Fridge, S/S Stove. (id:6370)"
+    }]
+    }]
+
